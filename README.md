@@ -24,7 +24,7 @@ For commercial licensing inquiries, please contact: mj@example.com
 
 ## Author
 
-**MJ**
+**MRITYUNJAY**
 
 - Email: [mjxworks@gmail.com](mailto:mjxworks@gmail.com)  
 - LinkedIn: [linkedin.com/in/mrityunjay-shrivastava/](https://www.linkedin.com/in/mrityunjay-shrivastava/)
