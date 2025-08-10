@@ -18,7 +18,7 @@ This project is licensed under a custom license allowing free personal use but r
 
 ## Contact
 
-For commercial licensing inquiries, please contact: mj@example.com
+For commercial licensing inquiries, please contact: mjxworks@gmail.com
 
 ---
 
